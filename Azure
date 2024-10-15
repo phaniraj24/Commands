@@ -1,3 +1,0 @@
-Container registry :
-az acr login --name <Azure container registry>
-az acr repository list -n <Azure container registry>
