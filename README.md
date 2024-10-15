@@ -7,5 +7,6 @@
 
 ## Excel Shotcuts
 
-**Create Pivot Table from Excel Data :** `Alt+D+P` 
-**List Excel Data :** `Alt+D+L` 
+**Create Pivot Table from Excel Data :** `Alt+D+P`
+
+**List Excel Data :** `Alt+D+L`
