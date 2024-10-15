@@ -1,0 +1,3 @@
+Container registry Login :
+Linux Command:
+az acr login --name <Azure container registry>
