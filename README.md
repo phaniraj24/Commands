@@ -10,3 +10,5 @@
 **Create Pivot Table from Excel Data :** `Alt+D+P`
 
 **Excel Data Validation :** `Alt+D+L`
+
+**Excel Create a table from Data :** `Ctrl+T`
