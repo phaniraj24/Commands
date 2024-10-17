@@ -11,6 +11,6 @@
 
 **Excel Data Validation :** `Alt+D+L`
 
-**Excel Create a table from Data :** `Ctrl+T`
+**Excel Create a table :** `Ctrl+T`
 
 **Excel freeze cells :** `Alt + W + F + F`
