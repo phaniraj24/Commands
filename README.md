@@ -13,4 +13,4 @@
 
 **Excel Create a table from Data :** `Ctrl+T`
 
-**Excel freeze cells shortcut :** `Alt + W + F + F`
+**Excel freeze cells :** `Alt + W + F + F`
